@@ -21,7 +21,8 @@ Just follow my journey
 
   {% endfor %}
 
+
 # Get in Touch
 <ul>
-<li><a href="https://github.com/{{ site.github_username }}">GitHub</a></li>
+<li><a href="https://github.com/{{ site.github_username }}">My GitHub</a></li>
 </ul>
