@@ -11,7 +11,8 @@
 Just follow my journey
 <ul>
 
-  {% for post in site.posts %}
+
+{% for post in site.posts %}
 
     <li>
 
@@ -19,10 +20,9 @@ Just follow my journey
 
     </li>
 
-  {% endfor %}
-
+{% endfor %}
+<ul>
 
 # Get in Touch
-<ul>
 <li><a href="https://github.com/{{ site.github_username }}">My GitHub</a></li>
 </ul>
